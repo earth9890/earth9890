@@ -41,7 +41,7 @@ var developements = {
 <!-- - My CV website:  -->
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open-source works.
 ## 
-<a href="https://github.com/harishsganndhi123/github-readme-activity-graph"><img alt="Harish's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=harishsganndhi123&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- [![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishsganndhi123)](https://github.com/harishsganndhi123/github-readme-stats) -->
 <!--
 ##
 
@@ -114,11 +114,15 @@ var developements = {
             alt="typescript" width="40" height="40" /> </a>
 </p> 
 -->
-<a href="https://github.com/harishsganndhi123/github-readme-stats" title="Go to Source">
-      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=harishsganndhi123&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
- </a>  
-  <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=harishsganndhi123&theme=react&border=61DAFB&fire=DDB80F"/>
- </a>
+<p align="center">
+  <a href="https://github.com/harishsganndhi123/github-readme-stats" title="Go to Source">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=harishsganndhi123&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+  </a>
+</p>
 
+<!--
+<a href="https://git.io/streak-stats" title="Go to Source">
+      <img  width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=harishsganndhi123&theme=react&border=61DAFB&fire=DDB80F"/>
+ </a>
+-->
 <br/>
