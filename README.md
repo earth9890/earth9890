@@ -115,7 +115,7 @@ var developements = {
 </p> 
 -->
 <p align="center">
-  <a href="https://github.com/earth9890/github-readme-stats" title="Go to Source">
+  <a href="https://github-readme-stats.vercel.app/api?username=earth9890&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" title="Go to Source">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=earth9890&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
   </a>
 </p>
