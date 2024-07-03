@@ -14,6 +14,11 @@
 
 <h1 align="center">Hi 👋, I'm Harish Sugandhi</h1>
 <h3 align="center">A passionate software developer from Solapur, Maharashtra, India</h3>
+</p>
+<img src="https://komarev.com/ghpvc/?username=earth9890&color=dc143c">
+
+
+<p>
 
 
 
