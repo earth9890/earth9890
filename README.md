@@ -120,14 +120,14 @@ var developements = {
 </p> 
 -->
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=earth9890&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" title="Go to Source">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=earth9890&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=earth9890&show_icons=true&include_all_commits=true" title="Go to Source">
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=earth9890&show_icons=true&locale=en" alt="earth9890" />
   </a>
 </p>
 
-<!--
+
 <a href="https://git.io/streak-stats" title="Go to Source">
-      <img  width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=harishsganndhi123&theme=react&border=61DAFB&fire=DDB80F"/>
- </a>
--->
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=earth9890" alt="earth9890" />
+ </aea
+ 
 <br/>
