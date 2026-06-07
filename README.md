@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0a1b,50:dc143c,100:7a0a1b&height=200&section=header&text=Harish%20Sugandhi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer%20%E2%80%A2%20Solapur,%20India&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0a1b,50:dc143c,100:7a0a1b&height=200&section=header&text=Harish%20Sugandhi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20and%20AI%20Engineer%20%E2%80%A2%20Solapur,%20India&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/earth9890">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;AI+Engineer+%E2%80%94+building+AI+tools;Next.js+%2B+modern+JS+frameworks;Native+macOS+apps+in+Swift&font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&height=48" alt="typing" />
