@@ -2,25 +2,25 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0a1b,50:dc143c,100:7a0a1b&height=200&section=header&text=Harish%20Sugandhi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20and%20AI%20Engineer%20%E2%80%A2%20Solapur,%20India&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11130f,50:e8a23d,100:11130f&height=200&section=header&text=Harish%20Sugandhi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20and%20AI%20Engineer%20%E2%80%A2%20Solapur,%20India&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/earth9890">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;AI+Engineer+%E2%80%94+building+AI+tools;Next.js+%2B+modern+JS+frameworks;Native+macOS+apps+in+Swift&font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&height=48" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;AI+Engineer+%E2%80%94+building+AI+tools;Next.js+%2B+modern+JS+frameworks;Native+macOS+apps+in+Swift&font=Fira+Code&weight=600&size=22&pause=1000&color=E8A23D&center=true&vCenter=true&width=600&height=48" alt="typing" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=earth9890&label=Profile+views&color=dc143c&style=flat-square" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=earth9890&label=Profile+views&color=e8a23d&style=flat-square&labelColor=11130f" alt="views" />
 &nbsp;
-<a href="https://github.com/earth9890?tab=followers"><img src="https://img.shields.io/github/followers/earth9890?label=Follow&style=flat-square&color=dc143c&labelColor=0d1117" alt="followers" /></a>
+<a href="https://github.com/earth9890?tab=followers"><img src="https://img.shields.io/github/followers/earth9890?label=Follow&style=flat-square&color=e8a23d&labelColor=11130f" alt="followers" /></a>
 &nbsp;
-<a href="mailto:harishsugandhi.work@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=dc143c" alt="email" /></a>
+<a href="mailto:harishsugandhi.work@gmail.com"><img src="https://img.shields.io/badge/Email-11130f?style=flat-square&logo=gmail&logoColor=e8a23d" alt="email" /></a>
 
 <br/><br/>
 
-![Full-Stack Engineer](https://img.shields.io/badge/Full--Stack_Engineer-0d1117?style=for-the-badge&logo=react&logoColor=dc143c)
-![AI Engineer](https://img.shields.io/badge/AI_Engineer-0d1117?style=for-the-badge&logo=openai&logoColor=dc143c)
-![macOS Developer](https://img.shields.io/badge/macOS_Developer-0d1117?style=for-the-badge&logo=apple&logoColor=dc143c)
+![Full-Stack Engineer](https://img.shields.io/badge/Full--Stack_Engineer-11130f?style=for-the-badge&logo=react&logoColor=e8a23d)
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-11130f?style=for-the-badge&logo=openai&logoColor=e8a23d)
+![macOS Developer](https://img.shields.io/badge/macOS_Developer-11130f?style=for-the-badge&logo=apple&logoColor=e8a23d)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <!-- ════════════════════════════════ ABOUT ════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%20-About-dc143c?style=for-the-badge" alt="About" />
+<img src="https://img.shields.io/badge/%20-About-e8a23d?style=for-the-badge" alt="About" />
 
 I'm a **full-stack engineer** who ships type-safe products end to end, and an **AI engineer** building practical AI tools. I live in the **Next.js / TypeScript** ecosystem, lean on modern JS frameworks across the stack, and build **native macOS apps** in Swift on the side.
 
@@ -59,7 +59,7 @@ I'm a **full-stack engineer** who ships type-safe products end to end, and an **
 
 <!-- ════════════════════════════════ STACK ════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%20-Tech%20Stack-dc143c?style=for-the-badge" alt="Tech Stack" />
+<img src="https://img.shields.io/badge/%20-Tech%20Stack-e8a23d?style=for-the-badge" alt="Tech Stack" />
 
 **Languages**
 
@@ -116,20 +116,19 @@ I'm a **full-stack engineer** who ships type-safe products end to end, and an **
 
 <!-- ════════════════════════════════ STATS ════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/%20-GitHub%20Stats-dc143c?style=for-the-badge" alt="GitHub Stats" />
+<img src="https://img.shields.io/badge/%20-GitHub%20Activity-e8a23d?style=for-the-badge" alt="GitHub Activity" />
 
 <div align="center">
 
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=earth9890&theme=github_dark" alt="profile summary" />
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=earth9890&theme=gruvbox" alt="profile summary" />
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=earth9890&theme=github_dark" alt="languages by repository" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=earth9890&theme=github_dark" alt="languages by commits" />
+<img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=earth9890&theme=gruvbox" alt="most used languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=earth9890&hide_border=true&background=0d1117&stroke=dc143c&ring=dc143c&fire=dc143c&currStreakLabel=dc143c&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=earth9890&hide_border=true&background=1d1a14&stroke=e8a23d&ring=e8a23d&fire=e8a23d&currStreakLabel=e8a23d&sideLabels=d6c9a8&dates=8b8164&currStreakNum=f2e9d0&sideNums=f2e9d0" alt="streak" />
 
 </div>
 
@@ -139,6 +138,6 @@ I'm a **full-stack engineer** who ships type-safe products end to end, and an **
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0a1b,50:dc143c,100:7a0a1b&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11130f,50:e8a23d,100:11130f&height=120&section=footer" alt="footer" />
 
 </div>
