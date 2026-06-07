@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0a1b,50:dc143c,100:7a0a1b&height=200&section=header&text=Harish%20Sugandhi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Solapur,%20India&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0a1b,50:dc143c,100:7a0a1b&height=200&section=header&text=Harish%20Sugandhi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer%20%E2%80%A2%20Solapur,%20India&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/earth9890">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;TypeScript+%2B+Node.js+by+day;Building+SaaS+%26+open-source;Native+macOS+apps+%E2%80%A2+AI+tooling&font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=560&height=48" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;AI+Engineer+%E2%80%94+building+AI+tools;Next.js+%2B+modern+JS+frameworks;Native+macOS+apps+in+Swift&font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&height=48" alt="typing" />
 </a>
 
 <br/>
@@ -16,81 +16,95 @@
 &nbsp;
 <a href="mailto:harishsugandhi.work@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=dc143c" alt="email" /></a>
 
+<br/><br/>
+
+![Full-Stack Engineer](https://img.shields.io/badge/Full--Stack_Engineer-0d1117?style=for-the-badge&logo=react&logoColor=dc143c)
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-0d1117?style=for-the-badge&logo=openai&logoColor=dc143c)
+![macOS Developer](https://img.shields.io/badge/macOS_Developer-0d1117?style=for-the-badge&logo=apple&logoColor=dc143c)
+
 </div>
 
 <br/>
 
 <!-- ════════════════════════════════ ABOUT ════════════════════════════════ -->
 
-### 🧭 &nbsp;About
+<img src="https://img.shields.io/badge/%20-About-dc143c?style=for-the-badge" alt="About" />
 
-```ts
-"I build type-safe products end to end — from Postgres schemas to pixel-perfect UIs."
-```
+I'm a **full-stack engineer** who ships type-safe products end to end, and an **AI engineer** building practical AI tools. I live in the **Next.js / TypeScript** ecosystem, lean on modern JS frameworks across the stack, and build **native macOS apps** in Swift on the side.
 
-- 🔭 &nbsp;Currently building **[Presslyn](https://github.com/earth9890/presslyn)** — a modern CMS that reimagines WordPress in TypeScript
-- 🧠 &nbsp;Into **full-stack SaaS**, **AI tooling**, and **native macOS apps**
-- 🌱 &nbsp;Comfortable across the stack: APIs, databases, infra, and front-of-screen polish
-- 📫 &nbsp;Reach me at **harishsugandhi.work@gmail.com**
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<br/>
+**What I'm building**
 
-<!-- ════════════════════════════════ STACK (the fixed object) ════════════════════════════════ -->
+- **[Presslyn](https://github.com/earth9890/presslyn)** — a TypeScript CMS reimagining WordPress
+- **AI tools** — assistants, agents, and content/ranking automation
+- **Native macOS apps** — menu-bar utilities &amp; on-device tooling
 
-### 🛠️ &nbsp;Tech Stack
+</td>
+<td valign="top" width="50%">
 
-```js
-const harish = {
-  languages: ["TypeScript", "JavaScript", "PHP", "Python", "Java", "Swift", "C++", "C"],
-  web: {
-    languages:  ["HTML", "CSS", "JavaScript", "TypeScript"],
-    frameworks: ["React", "Next.js", "Node.js", "Express.js", "Tailwind CSS"],
-  },
-  backend: {
-    apis:      ["REST", "tRPC", "GraphQL"],
-    databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-  },
-  devops: {
-    cloud: ["AWS", "GCP"],
-    tools: ["Docker", "Kubernetes", "GitHub Actions"],
-  },
-  native: ["Swift (macOS)", "Android (Java)"],
-};
+**How to reach me**
 
-// always shipping, always learning the next one
-Object.values(harish).flat(Infinity).forEach((tech) => keepBuilding(tech));
-```
+- Email — **harishsugandhi.work@gmail.com**
+- Based in **Solapur, Maharashtra, India**
+- Open to **SaaS** &amp; **open-source** collaboration
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ════════════════════════════════ BADGES ════════════════════════════════ -->
+<!-- ════════════════════════════════ STACK ════════════════════════════════ -->
 
-#### Languages
+<img src="https://img.shields.io/badge/%20-Tech%20Stack-dc143c?style=for-the-badge" alt="Tech Stack" />
+
+**Languages**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-#### Frontend &amp; Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Frontend &amp; Frameworks**
 
-#### Backend &amp; Data
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI &amp; Tooling**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel_AI-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Backend &amp; Data**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### DevOps &amp; Cloud
+**Native (macOS)**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Apple](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**DevOps &amp; Cloud**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -102,7 +116,7 @@ Object.values(harish).flat(Infinity).forEach((tech) => keepBuilding(tech));
 
 <!-- ════════════════════════════════ STATS ════════════════════════════════ -->
 
-### 📊 &nbsp;GitHub Stats
+<img src="https://img.shields.io/badge/%20-GitHub%20Stats-dc143c?style=for-the-badge" alt="GitHub Stats" />
 
 <div align="center">
 
@@ -122,7 +136,5 @@ Object.values(harish).flat(Infinity).forEach((tech) => keepBuilding(tech));
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0a1b,50:dc143c,100:7a0a1b&height=120&section=footer" alt="footer" />
-
-<sub>Thanks for visiting — follow along for SaaS &amp; open-source work.</sub>
 
 </div>
