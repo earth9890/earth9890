@@ -120,8 +120,12 @@ I'm a **full-stack engineer** who ships type-safe products end to end, and an **
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=earth9890&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&ring_color=dc143c" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earth9890&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=dc143c&text_color=c9d1d9" alt="top languages" />
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=earth9890&theme=github_dark" alt="profile summary" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=earth9890&theme=github_dark" alt="languages by repository" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=earth9890&theme=github_dark" alt="languages by commits" />
 
 <br/><br/>
 
