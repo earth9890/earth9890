@@ -1,133 +1,140 @@
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Hello</h1>
-    <script src="./script.js"></script>
-</body>
-</html> -->
+<!-- ════════════════════════════════ HEADER ════════════════════════════════ -->
 
-<h1 align="center">Hi 👋, I'm Harish Sugandhi</h1>
-<h3 align="center">A passionate software developer from Solapur, Maharashtra, India</h3>
-</p>
-<img src="https://komarev.com/ghpvc/?username=earth9890&color=dc143c">
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0a1b,50:dc143c,100:7a0a1b&height=200&section=header&text=Harish%20Sugandhi&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer%20%E2%80%A2%20Solapur,%20India&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
-<p>
+<a href="https://github.com/earth9890">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;AI+Engineer+%E2%80%94+building+AI+tools;Next.js+%2B+modern+JS+frameworks;Native+macOS+apps+in+Swift&font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=600&height=48" alt="typing" />
+</a>
 
-
-
-```sh
-var developements = {
-    "languages": ["C", "C++", "Javascript", "Java", "python", "PHP"]
-    "Web Development" : {
-        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript"] ,
-        "Frameworks & Libraries" : [ "Node.js", "Express.js", "MongoDB", 
-                        "MySQL", "React", "Bootstrap",]
-    },
-    "App Development" : {
-        "Languages" : ["JavaScript", "JAVA"] ,
-        "Frameworks & Tools" : ["React Native", "Expo", "Android Studio"]
-    },
-    "devops & cloud": {
-        "languages": [ "JSON",...developments["languages"]],
-        "Tools and Technologies": ["AWS", "GCP", "Docker", "Kubernetes", "Github CI/CD"]
-    },
-    "databases": ["MySQL", "MongoDB",]
-}
-```
-
-- 📫 How to reach me, drop an email at **harishsugandhi.work@gmail.com**
-<!-- - My CV website:  -->
-- Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open-source works.
-## 
-<!-- [![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishsganndhi123)](https://github.com/harishsganndhi123/github-readme-stats) -->
-<!--
-##
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
-            src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
-            alt="android studio" width="40" height="40" /> </a>
-    <a href="https://angular.io/" target="_blank" title ="Angular"> <img
-            src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
-            alt="angular" width="40" height="40" /> </a>
-    <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
-            src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
-            alt="aws" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" title ="C"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" title ="C++"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
-    <a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
-            src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
-            alt="express" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank" title ="git"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://heroku.com" target="_blank" title ="heroku"> 
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-            alt="heroku" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
-    <a href="https://ionicframework.com/" target="_blank" title ="Ionic"> <img
-            src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png"
-            alt="ionic" width="40" height="40" /> </a>
-    <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
-            src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
-            alt="java" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
-    <a href="https://jwt.io/" target="_blank" title ="JWT"> <img
-            src="https://jwt.io/img/pic_logo.svg"
-            alt="JWT" width="40" height="40" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank" title ="Postman"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" title ="Python"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a>
-    <a href="https://wiki.python.org/moin/TkInter" target="_blank" title ="Tkinter"> <img
-            src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
-            alt="tkinter" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
-            src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
-            alt="typescript" width="40" height="40" /> </a>
-</p> 
--->
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=earth9890&show_icons=true&include_all_commits=true" target="_blank" title="Go to Source">
-    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=earth9890&show_icons=true&locale=en" alt="earth9890" />
-  </a>
-</p>
-
-
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=earth9890" target="_blank" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=earth9890" alt="earth9890" />
- </aea
- 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=earth9890&label=Profile+views&color=dc143c&style=flat-square" alt="views" />
+&nbsp;
+<a href="https://github.com/earth9890?tab=followers"><img src="https://img.shields.io/github/followers/earth9890?label=Follow&style=flat-square&color=dc143c&labelColor=0d1117" alt="followers" /></a>
+&nbsp;
+<a href="mailto:harishsugandhi.work@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=dc143c" alt="email" /></a>
+
+<br/><br/>
+
+![Full-Stack Engineer](https://img.shields.io/badge/Full--Stack_Engineer-0d1117?style=for-the-badge&logo=react&logoColor=dc143c)
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-0d1117?style=for-the-badge&logo=openai&logoColor=dc143c)
+![macOS Developer](https://img.shields.io/badge/macOS_Developer-0d1117?style=for-the-badge&logo=apple&logoColor=dc143c)
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════ ABOUT ════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/%20-About-dc143c?style=for-the-badge" alt="About" />
+
+I'm a **full-stack engineer** who ships type-safe products end to end, and an **AI engineer** building practical AI tools. I live in the **Next.js / TypeScript** ecosystem, lean on modern JS frameworks across the stack, and build **native macOS apps** in Swift on the side.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**What I'm building**
+
+- **[Presslyn](https://github.com/earth9890/presslyn)** — a TypeScript CMS reimagining WordPress
+- **AI tools** — assistants, agents, and content/ranking automation
+- **Native macOS apps** — menu-bar utilities &amp; on-device tooling
+
+</td>
+<td valign="top" width="50%">
+
+**How to reach me**
+
+- Email — **harishsugandhi.work@gmail.com**
+- Based in **Solapur, Maharashtra, India**
+- Open to **SaaS** &amp; **open-source** collaboration
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════════════════ STACK ════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/%20-Tech%20Stack-dc143c?style=for-the-badge" alt="Tech Stack" />
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frontend &amp; Frameworks**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI &amp; Tooling**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel_AI-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Backend &amp; Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Native (macOS)**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Apple](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**DevOps &amp; Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+<!-- ════════════════════════════════ STATS ════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/%20-GitHub%20Stats-dc143c?style=for-the-badge" alt="GitHub Stats" />
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=earth9890&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&ring_color=dc143c" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earth9890&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=dc143c&text_color=c9d1d9" alt="top languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=earth9890&hide_border=true&background=0d1117&stroke=dc143c&ring=dc143c&fire=dc143c&currStreakLabel=dc143c&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════ FOOTER ════════════════════════════════ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7a0a1b,50:dc143c,100:7a0a1b&height=120&section=footer" alt="footer" />
+
+</div>
